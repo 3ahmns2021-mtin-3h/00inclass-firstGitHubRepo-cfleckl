@@ -1,1 +1,2 @@
-# 00inclass-firstGitHubRepo-cfleckl
+# 00inclass-firstGitHubRepo-cfleckl 
+Clemens Fleckl
